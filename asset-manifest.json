@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mwp-gui/static/css/main.ff82fd36.css",
-    "main.js": "/mwp-gui/static/js/main.39b9985b.js",
+    "main.js": "/mwp-gui/static/js/main.d3e06d92.js",
     "static/js/787.08360e87.chunk.js": "/mwp-gui/static/js/787.08360e87.chunk.js",
     "index.html": "/mwp-gui/index.html",
     "main.ff82fd36.css.map": "/mwp-gui/static/css/main.ff82fd36.css.map",
-    "main.39b9985b.js.map": "/mwp-gui/static/js/main.39b9985b.js.map",
+    "main.d3e06d92.js.map": "/mwp-gui/static/js/main.d3e06d92.js.map",
     "787.08360e87.chunk.js.map": "/mwp-gui/static/js/787.08360e87.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff82fd36.css",
-    "static/js/main.39b9985b.js"
+    "static/js/main.d3e06d92.js"
   ]
 }
