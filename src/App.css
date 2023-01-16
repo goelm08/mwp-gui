@@ -75,9 +75,13 @@ h1 {
 }
 
 .search {
-  width: 30%;
+  width: 90%;
 }
 
 ul li {
   font-size: 20px;
+}
+
+#search-button{
+  alignment: center;
 }
